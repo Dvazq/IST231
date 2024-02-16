@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-02-16T16:47:09.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W2IbxOKgW-wuqlY2Ru8O" version="23.1.5" type="device">
+  <diagram name="Page-1" id="6gQ1JA3SCvBLPvp8vA8j">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-2" value="Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Picture&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Restaurant Info&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-7" value="&lt;font color=&quot;#ffffff&quot;&gt;Next Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="240" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-14" value="Menu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-15" value="&lt;font color=&quot;#ffffff&quot;&gt;Menu item&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Previous Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-19" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-20" value="&lt;font color=&quot;#ffffff&quot;&gt;Menu Item&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-22" value="&lt;font color=&quot;#ffffff&quot;&gt;Menu Item&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-23" value="&lt;font color=&quot;#ffffff&quot;&gt;Menu Item&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="630" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEU2HOtRQnZppNgb2G_g-24" value="&lt;font color=&quot;#ffffff&quot;&gt;Menu Item&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

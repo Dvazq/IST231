@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-03-04T02:58:25.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eU7t6t9u8ZCkvTd67rln" version="24.0.1" type="device">
+  <diagram name="Page-1" id="d1-6LCQXhS_i39mn0nLG">
+    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="270" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="270" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-5" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-6" value="Radio Buttons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-7" value="CheckBocx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-8" value="Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-9" value="Switches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-10" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-11" value="Order Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="195" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-12" value="Total" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="440" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uXBVHhT6zPRg2dWPPB93-13" value="Button" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="520" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
